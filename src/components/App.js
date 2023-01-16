@@ -18,7 +18,7 @@ function App() {
 
    return (
       <div>
-         <img src={image} />
+         <img src={image} alt="A Random Dog"/>
       </div>
    )
 }
